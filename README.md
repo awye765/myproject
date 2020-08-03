@@ -6,7 +6,7 @@ Click [here](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 ## 2. What
 
 - [X] Part 1 - Getting Started
-- [ ] Part 2 - Fundamentals
+- [X] Part 2 - Fundamentals
 - [ ] Part 3 - Advanced Concepts
 - [ ] Part 4 - Authentication
 - [ ] Part 5 - Django ORM
