@@ -14,3 +14,5 @@ Click [here](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 - [ ] Part 7 - Deployment
 
 ## 3. Result
+
+TBC
